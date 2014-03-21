@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary               = 'The Objective-C block utilities you always wish you had.'
   s.homepage              = 'https://github.com/pandamonia/BlocksKit'
   s.author                = { 'Zachary Waldowski' => 'zach@waldowski.me',
-                              'Alexsander Akers'  => 'a2@pandamonia.us' }
+                              'Alexsander Akers'  => 'a2@pnd.mn' }
   s.source                = { :git => 'https://github.com/pandamonia/BlocksKit.git', :tag => "v#{s.version}" }
   s.requires_arc          = true
   s.osx.deployment_target = '10.8'
